@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hi there, I'm Jeremy 👋
+
+I’ve been solving puzzles as a software engineer for over 6 years. I specialize in backend development using ruby, php, and javascript, but will use whatever is best to solve the problem. I currently have an interest in growing my understanding of machine learning, devops, and site reliability. 
+
+In my free time I enjoy road cycling 🚴, reading 📖, and maintaining a personal knowledge management system using zettelkasten principles ✍️.
+
+### Find me online
+- Blog: [jeremydwayne.com](https://www.jeremydwayne.com/)
+- Twitter: [@jeremydwayne](https://www.twitter.com/jeremydwayne)
+- Twitch: [@jeremydwayne](https://www.twitch.com/jeremydwayne)
 
 <!--
 **JeremyDwayne/JeremyDwayne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
