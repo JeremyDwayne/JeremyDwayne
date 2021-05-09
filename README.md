@@ -2,7 +2,7 @@
 
 I’ve been solving puzzles as a software engineer for over 6 years. I specialize in backend development using ruby, php, and javascript, but will use whatever is best to solve the problem. I currently have an interest in growing my understanding of machine learning, devops, and site reliability. 
 
-In my free time I enjoy road cycling 🚴, reading 📖, and maintaining a personal knowledge management system using zettelkasten principles ✍️.
+In my free time I enjoy road cycling 🚴, reading 📖, and recently started working towards my private pilot's license ✈
 
 ### Find me online
 - Blog: [jeremydwayne.com](https://www.jeremydwayne.com/)
