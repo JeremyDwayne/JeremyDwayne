@@ -4,10 +4,18 @@ I’ve been solving puzzles as a software engineer for over 6 years. I specializ
 
 In my free time I enjoy road cycling 🚴, reading 📖, and recently started working towards my private pilot's license ✈
 
-### Find me online
-- Blog: [jeremydwayne.com](https://www.jeremydwayne.com/)
+## Connect With Me
+- Website: [jeremydwayne.com](https://www.jeremydwayne.com/)
 - Twitter: [@jeremydwayne](https://www.twitter.com/jeremydwayne)
+- Instagram: [@jeremydwayne](https://www.instagram.com/jeremydwayne)
+- Youtube: [@jeremydwayne](https://www.youtube.com/jeremydwayne)
 - Twitch: [@jeremydwayne](https://www.twitch.com/jeremydwayne)
+- Linkedin: [@jeremywinterberg](https://www.linkedin.com/in/jeremywinterberg)
+
+## Recent Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+➡️ [more  blog posts...](https://jeremydwayne.com/)
 
 <!--
 **JeremyDwayne/JeremyDwayne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
