@@ -1,8 +1,8 @@
 # Hi there, I'm Jeremy 👋
 
-I’ve been solving puzzles as a software engineer for over 6 years. I specialize in backend development using ruby, php, and javascript, but will use whatever is best to solve the problem. I currently have an interest in growing my understanding of golang, devops, and site reliability. 
+I'm a Senior Software Engineer who specializes in api's and 3rd party integrations. I currently have an interest in growing my understanding of designing scalable systems and site reliability.
 
-In my free time I enjoy road cycling 🚴, reading 📖, and recently started working towards my private pilot's license ✈
+In my free time I enjoy road cycling 🚴, reading 📖, and am working towards my private pilot's certificate ✈
 
 ## Connect With Me
 - Website: [jeremydwayne.com](https://www.jeremydwayne.com/)
