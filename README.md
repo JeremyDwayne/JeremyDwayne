@@ -1,6 +1,6 @@
 # Hi there, I'm Jeremy 👋
 
-I'm a Senior Software Engineer who specializes in api's and 3rd party integrations. I currently have an interest in growing my understanding of designing scalable systems and site reliability.
+I'm a Staff Software Engineer who specializes in api's and 3rd party integrations. I currently have an interest in growing my understanding of designing scalable systems and site reliability.
 
 In my free time I enjoy road cycling 🚴, reading 📖, and am working towards my private pilot's certificate ✈
 
