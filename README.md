@@ -14,6 +14,7 @@ In my free time I enjoy road cycling 🚴, reading 📖, and am working towards 
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;m a staff software engineer now? Two Promotions in 8 Months](https://www.jeremydwayne.com/posts/two-promotions-in-8-months/)
 - [How I Doubled My Income, and My 2021-Year Review](https://www.jeremydwayne.com/posts/how-i-doubled-my-income-and-2021-year-review/)
 - [Making the Best of an Old School Dev Environment](https://www.jeremydwayne.com/posts/making-the-best-of-an-old-school-dev-environment/)
 - [Why I Decided to Quit MMORPG Games](https://www.jeremydwayne.com/posts/why-i-decided-to-quit-mmorpg-games/)
