@@ -1,8 +1,10 @@
 # Hi there, I'm Jeremy 👋
 
-I'm a Staff Software Engineer who specializes in api's and 3rd party integrations. I currently have an interest in growing my understanding of designing scalable systems and site reliability.
+I'm a Staff Software Engineer with over 8 years of experience, specializing in building scalable api's and cloud-based SaaS platforms, primarily with Ruby. I'm currently learning Go, React, Next.js and Typescript.
 
-In my free time I enjoy road cycling 🚴, reading 📖, and am working towards my private pilot's certificate ✈
+I am actively looking for my next role at the Senior+ level, and would love to connect with you if you have a position you're recruiting for.
+
+I'm also a private pilot ✈ In my free time you'll catch me finding every excuse to get up in the sky in my 1963 Piper Cherokee 180. I'm working towards my instrument rating and someday would love to be a CFI/I in my spare time to help bring more people into the world of aviation.
 
 ## Connect With Me
 - Website: [jeremydwayne.com](https://www.jeremydwayne.com/)
