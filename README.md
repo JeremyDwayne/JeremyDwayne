@@ -16,11 +16,11 @@ I'm also a private pilot ✈ In my free time you'll catch me finding every excus
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Advent of Code 2023 - Day 2 Cube Conundrum](https://www.jeremydwayne.com/posts/advent-of-code-2023-day-2/)
 - [Advent of Code 2023 - Day 1 Trebuchet?!](https://www.jeremydwayne.com/posts/advent-of-code-2023-day-1/)
 - [Advent of Code 2023 - Introduction](https://www.jeremydwayne.com/posts/advent-of-code-2023-introduction/)
 - [Threads And Queues In Ruby](https://www.jeremydwayne.com/posts/threads_and_queues_in_ruby/)
 - [I&#39;m a staff software engineer now? Two Promotions in 8 Months](https://www.jeremydwayne.com/posts/two-promotions-in-8-months/)
-- [How I Doubled My Income, and My 2021-Year Review](https://www.jeremydwayne.com/posts/how-i-doubled-my-income-and-2021-year-review/)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [more  blog posts...](https://jeremydwayne.com/)
 
