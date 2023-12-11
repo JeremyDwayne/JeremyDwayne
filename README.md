@@ -1,18 +1,18 @@
 # Hi there, I'm Jeremy 👋
 
-I'm a Staff Software Engineer with over 8 years of experience, specializing in building scalable api's and cloud-based SaaS platforms, primarily with Ruby. I'm currently learning Go, React, Next.js and Typescript.
+I'm a seasoned Software Engineer with over 8 years of experience, specializing in building scalable api's and cloud-based SaaS platforms, primarily with Ruby. I'm currently learning Go, React, Next.js and Typescript by building out my side project [SaferPilot](https://www.github.com/jeremydwayne/safer-pilot).
 
-I am actively looking for my next role at the Senior+ level, and would love to connect with you if you have a position you're recruiting for.
+I'm actively looking for my next role at the Senior or Staff level, and would love to connect with you if you have a position you're recruiting for.
 
 I'm also a private pilot ✈ In my free time you'll catch me finding every excuse to get up in the sky in my 1963 Piper Cherokee 180. I'm working towards my instrument rating and someday would love to be a CFI/I in my spare time to help bring more people into the world of aviation.
 
 ## Connect With Me
+- Linkedin: [@jeremywinterberg](https://www.linkedin.com/in/jeremywinterberg)
 - Website: [jeremydwayne.com](https://www.jeremydwayne.com/)
-- Twitter: [@jeremydwayne](https://www.twitter.com/jeremydwayne)
 - Instagram: [@jeremydwayne](https://www.instagram.com/jeremydwayne)
 - Youtube: [@jeremydwayne](https://www.youtube.com/jeremydwayne)
 - Twitch: [@jeremydwayne](https://www.twitch.com/jeremydwayne)
-- Linkedin: [@jeremywinterberg](https://www.linkedin.com/in/jeremywinterberg)
+- Twitter: [@jeremydwayne](https://www.twitter.com/jeremydwayne)
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
