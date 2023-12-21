@@ -1,12 +1,14 @@
 # Hi there, I'm Jeremy 👋
 
-I'm a seasoned Software Engineer with over 8 years of experience, specializing in building scalable api's and cloud-based SaaS platforms, primarily with Ruby. I'm currently learning Go, React, Next.js and Typescript by building out my side project [SaferPilot](https://www.github.com/jeremydwayne/safer-pilot).
+I've been building resilient software for over 8 years. My expertise is in optimizing and scaling the backend services of distributed systems. As a technical leader I am passionate about mentoring, establishing best practices within teams, and improving workflows. 
 
-I'm actively looking for my next role at the Senior or Staff level, and would love to connect with you if you have a position you're recruiting for.
+🔭 I've primarilly worked with Ruby throughout my career, but I am actively working on a side project, [saferpilot](https://www.github.com/jeremydwayne/safer-pilot), in Go and Next.js.
 
-I'm also a private pilot ✈ In my free time you'll catch me finding every excuse to get up in the sky in my 1963 Piper Cherokee 180. I'm working towards my instrument rating and someday would love to be a CFI/I in my spare time to help bring more people into the world of aviation.
+✈️ When I'm not behind a desk you'll likely find me up in the sky flying my 1963 Piper Cherokee 180.
 
-## Connect With Me
+I am actively looking for my next IC role and would love to connect with you to discuss opportunities you're recruiting for.
+
+## Connect With Me 📫 
 - Linkedin: [@jeremywinterberg](https://www.linkedin.com/in/jeremywinterberg)
 - Website: [jeremydwayne.com](https://www.jeremydwayne.com/)
 - Instagram: [@jeremydwayne](https://www.instagram.com/jeremydwayne)
@@ -14,7 +16,7 @@ I'm also a private pilot ✈ In my free time you'll catch me finding every excus
 - Twitch: [@jeremydwayne](https://www.twitch.com/jeremydwayne)
 - Twitter: [@jeremydwayne](https://www.twitter.com/jeremydwayne)
 
-## Recent Blog Posts
+## Recent Blog Posts 📝
 <!-- BLOG-POST-LIST:START -->
 - [Advent of Code 2023 - Day 2 Cube Conundrum](https://www.jeremydwayne.com/posts/advent-of-code-2023-day-2/)
 - [Advent of Code 2023 - Day 1 Trebuchet?!](https://www.jeremydwayne.com/posts/advent-of-code-2023-day-1/)
