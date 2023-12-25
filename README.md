@@ -2,7 +2,7 @@
 
 I've been building resilient software for over 8 years. My expertise is in optimizing and scaling the backend services of distributed systems. As a technical leader I am passionate about mentoring, establishing best practices within teams, and improving workflows. 
 
-🔭 I've primarilly worked with Ruby throughout my career, but I am actively working on a side project, [saferpilot](https://www.github.com/jeremydwayne/safer-pilot), in Go and Next.js.
+🔭 I've primarily worked with Ruby throughout my career, but I am actively working on a side project, [saferpilot](https://www.github.com/jeremydwayne/safer-pilot), in Go and Next.js.
 
 ✈️ When I'm not behind a desk you'll likely find me up in the sky flying my 1963 Piper Cherokee 180.
 
