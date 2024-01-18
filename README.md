@@ -18,11 +18,11 @@ I am actively looking for my next IC role and would love to connect with you to 
 
 ## Recent Blog Posts 📝
 <!-- BLOG-POST-LIST:START -->
+- [DSA - Simple Search vs Binary Search](https://www.jeremydwayne.com/posts/dsa-simple-search-vs-binary-search/)
 - [Consistency Is Difficult](https://www.jeremydwayne.com/posts/consistency-is-difficult/)
 - [Advent of Code 2023 - Day 2 Cube Conundrum](https://www.jeremydwayne.com/posts/advent-of-code-2023-day-2/)
 - [Advent of Code 2023 - Day 1 Trebuchet?!](https://www.jeremydwayne.com/posts/advent-of-code-2023-day-1/)
 - [Advent of Code 2023 - Introduction](https://www.jeremydwayne.com/posts/advent-of-code-2023-introduction/)
-- [Threads And Queues In Ruby](https://www.jeremydwayne.com/posts/threads_and_queues_in_ruby/)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [more  blog posts...](https://jeremydwayne.com/)
 
