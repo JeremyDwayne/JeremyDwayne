@@ -24,7 +24,7 @@ I am actively looking for my next IC role and would love to connect with you to 
 - [Advent of Code 2023 - Day 1 Trebuchet?!](https://www.jeremywinterberg.com/posts/advent-of-code-2023-day-1/)
 - [Advent of Code 2023 - Introduction](https://www.jeremywinterberg.com/posts/advent-of-code-2023-introduction/)
 <!-- BLOG-POST-LIST:END -->
-➡️ [more  blog posts...](https://jeremydwayne.com/)
+➡️ [more  blog posts...](https://www.jeremywinterberg.com/)
 
 <!--
 **JeremyDwayne/JeremyDwayne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
