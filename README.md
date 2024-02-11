@@ -18,11 +18,11 @@ I am actively looking for my next IC role and would love to connect with you to 
 
 ## Recent Blog Posts 📝
 <!-- BLOG-POST-LIST:START -->
-- [DSA - Simple Search vs Binary Search](https://www.jeremywinterberg.com/post/dsa-simple-search-vs-binary-search/)
-- [Consistency Is Difficult](https://www.jeremywinterberg.com/post/consistency-is-difficult/)
-- [Advent of Code 2023 - Day 2 Cube Conundrum](https://www.jeremywinterberg.com/post/advent-of-code-2023-day-2/)
-- [Advent of Code 2023 - Day 1 Trebuchet?!](https://www.jeremywinterberg.com/post/advent-of-code-2023-day-1/)
-- [Advent of Code 2023 - Introduction](https://www.jeremywinterberg.com/post/advent-of-code-2023-introduction/)
+- [DSA - Simple Search vs Binary Search](https://www.jeremywinterberg.com/p/dsa-simple-search-vs-binary-search)
+- [Consistency Is Difficult](https://www.jeremywinterberg.com/p/consistency-is-difficult)
+- [Advent of Code 2023 - Day 2 Cube Conundrum](https://www.jeremywinterberg.com/p/advent-of-code-2023-day-2)
+- [Advent of Code 2023 - Day 1 Trebuchet?!](https://www.jeremywinterberg.com/p/advent-of-code-2023-day-1)
+- [Advent of Code 2023 - Introduction](https://www.jeremywinterberg.com/p/advent-of-code-2023-introduction)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [more  blog posts...](https://www.jeremywinterberg.com/)
 
