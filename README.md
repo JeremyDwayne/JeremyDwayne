@@ -2,15 +2,13 @@
 
 I've been building resilient software for over 8 years. My expertise is in optimizing and scaling the backend services of distributed systems. As a technical leader I am passionate about mentoring, establishing best practices within teams, and improving workflows. 
 
-🔭 I've primarily worked with Ruby throughout my career, but I am actively working on a side project, [saferpilot](https://www.github.com/jeremydwayne/safer-pilot), in Go and Next.js.
-
 ✈️ When I'm not behind a desk you'll likely find me up in the sky flying my 1963 Piper Cherokee 180.
 
-I am actively looking for my next IC role and would love to connect with you to discuss opportunities you're recruiting for.
+I am actively looking for my next role and would love to connect with you to discuss opportunities you're recruiting for.
 
 ## Connect With Me 📫 
+- Blog/Newsletter: [jeremywinterberg.com](https://www.jeremywinterberg.com/)
 - Linkedin: [@jeremywinterberg](https://www.linkedin.com/in/jeremywinterberg)
-- Website: [jeremydwayne.com](https://www.jeremydwayne.com/)
 - Instagram: [@jeremydwayne](https://www.instagram.com/jeremydwayne)
 - Youtube: [@jeremydwayne](https://www.youtube.com/jeremydwayne)
 - Twitch: [@jeremydwayne](https://www.twitch.com/jeremydwayne)
