@@ -1,5 +1,5 @@
-<div>
-<img align="center" src="https://i.imgur.com/4ASafy0.png">
+<div align="center">
+  <img src="https://i.imgur.com/4ASafy0.png">
 </div>
 
 <h3 align="center">
@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-My name is **Jeremy Winterberg** and I've been building resilient software for over 8 years. My expertise is in optimizing and scaling the backend services of distributed systems. As a technical leader I am passionate about mentoring, establishing best practices within teams, and improving workflows. 
+My name is **Jeremy Winterberg** and I've been building resilient software for over 8 years. My expertise is in optimizing and scaling distributed systems, primarily with Ruby but I consider myself a polyglot. As a technical leader I am passionate about mentoring, establishing best practices within teams, and improving workflows. 
 
 **I am actively looking for my next role and would love to connect with you to discuss opportunities you're recruiting for.**
 
@@ -26,11 +26,14 @@ My name is **Jeremy Winterberg** and I've been building resilient software for o
   <img alt="Riding Plane" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMndrNW5hMnBkOXVxZ3l3b2ZyeDByZGdtOGo4czFwNG9waXQ3ZDRqcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Btn42lfKKrOzS/giphy.gif"/>
 </div>
 <h2 align = "center">
-  <a href="https://twitter.com/jeremydwayne" target="_blank">
-    <img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/jeremywinterberg/" target="_blank">
+  <a href="https://linkedin.com/in/jeremywinterberg/" target="_blank">
     <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://youtube.com/jeremydwayne" target="_blank">
+    <img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="https://twitch.tv/jeremydwayne" target="_blank">
+    <img alt="Twitch" title="Twitch" src="https://img.shields.io/badge/-Twitch-6441a5?style=for-the-badge&logo=twitch&logoColor=white"/>
   </a>
   <a href="https://instagram.com/jeremydwayne" target="_blank">
     <img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
@@ -41,17 +44,21 @@ My name is **Jeremy Winterberg** and I've been building resilient software for o
 ## 🔩 ToolBox
 <h1 align = "center">
 
-![Ruby](https://img.shields.io/badge/-Ruby-red?style=for-the-badge&logo=ruby&logoColor=white)
-![Ruby on Rails](https://img.shields.io/badge/-Ruby%20On%20Rails-red?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![Golang](https://img.shields.io/badge/-Golang-blue?style=for-the-badge&logo=go&logoColor=white)
-![Typescript](https://img.shields.io/badge/-Typescript-blue?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-blue?style=for-the-badge&logo=next.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-white?style=for-the-badge&logo=python&logoColor=4B8BBE)
+![Ruby](https://img.shields.io/badge/-Ruby-820C02?style=for-the-badge&logo=ruby&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/-Ruby%20On%20Rails-Cc0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Typescript](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-00d8ff?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
 
+![Postgres](https://img.shields.io/badge/-postgresql-0064a5?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/-aws-FF9900?style=for-the-badge&logo=amazon&logoColor=white)
+![Ansible](https://img.shields.io/badge/-ansible-white?style=for-the-badge&logo=ansible&logoColor=black)
 ![Git](https://img.shields.io/badge/-git-F1502F?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-kubernetes-3970e4?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-kubernetes-296de8?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/-terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 
 
 ## 📈 GitHub Stats 
@@ -61,16 +68,8 @@ My name is **Jeremy Winterberg** and I've been building resilient software for o
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremydwayne&layout=compact&theme=catppuccin_latte)](https://github.com/jeremydwayne)
 
   
-
-## Connect With Me 📫 
-- Blog/Newsletter: [jeremywinterberg.com](https://www.jeremywinterberg.com/)
-- Linkedin: [@jeremywinterberg](https://www.linkedin.com/in/jeremywinterberg)
-- Instagram: [@jeremydwayne](https://www.instagram.com/jeremydwayne)
-- Youtube: [@jeremydwayne](https://www.youtube.com/jeremydwayne)
-- Twitch: [@jeremydwayne](https://www.twitch.com/jeremydwayne)
-- Twitter: [@jeremydwayne](https://www.twitter.com/jeremydwayne)
-
-## Recent Blog Posts 📝
+## 📝 Recent Blog Posts
+- Blog: [jeremywinterberg.com](https://www.jeremywinterberg.com/)
 <!-- BLOG-POST-LIST:START -->
 - [Stop Following Tutorials](https://www.jeremywinterberg.com/p/stop-following-tutorials)
 - [Merge Two Sorted Arrays](https://www.jeremywinterberg.com/p/merge-two-sorted-arrays)
