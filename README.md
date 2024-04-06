@@ -1,10 +1,66 @@
-# Hi there, I'm Jeremy 👋
+<div>
+<img align="center" src="https://i.imgur.com/4ASafy0.png">
+</div>
 
-I've been building resilient software for over 8 years. My expertise is in optimizing and scaling the backend services of distributed systems. As a technical leader I am passionate about mentoring, establishing best practices within teams, and improving workflows. 
+<h3 align="center">
+  <p>Welcome to my profile
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></p>
+</h3>
+
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?color=C2AFF7FF&width=380&height=45&lines=Looking+For+Work%2C+Hire+Me!;Always+Learning+New+Things;Private+Pilot+%26+Coffee+Addict;Mentoring+Others;Nice+To+Meet+You!&center=true">
+</p>
+
+<!-- Badges template - https://github.com/badges/shields -->
+
+
+## 👨‍💻 About Me
+
+My name is **Jeremy Winterberg** and I've been building resilient software for over 8 years. My expertise is in optimizing and scaling the backend services of distributed systems. As a technical leader I am passionate about mentoring, establishing best practices within teams, and improving workflows. 
+
+**I am actively looking for my next role and would love to connect with you to discuss opportunities you're recruiting for.**
 
 ✈️ When I'm not behind a desk you'll likely find me up in the sky flying my 1963 Piper Cherokee 180.
+<div align="center">
+  <img alt="Riding Plane" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMndrNW5hMnBkOXVxZ3l3b2ZyeDByZGdtOGo4czFwNG9waXQ3ZDRqcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Btn42lfKKrOzS/giphy.gif"/>
+</div>
+<h2 align = "center">
+  <a href="https://twitter.com/jeremydwayne" target="_blank">
+    <img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jeremywinterberg/" target="_blank">
+    <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/jeremydwayne" target="_blank">
+    <img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+</h2>
 
-I am actively looking for my next role and would love to connect with you to discuss opportunities you're recruiting for.
+  
+## 🔩 ToolBox
+<h1 align = "center">
+
+![Ruby](https://img.shields.io/badge/-Ruby-red?style=for-the-badge&logo=ruby&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/-Ruby%20On%20Rails-red?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![Golang](https://img.shields.io/badge/-Golang-blue?style=for-the-badge&logo=go&logoColor=white)
+![Typescript](https://img.shields.io/badge/-Typescript-blue?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-blue?style=for-the-badge&logo=next.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-white?style=for-the-badge&logo=python&logoColor=4B8BBE)
+
+![Git](https://img.shields.io/badge/-git-F1502F?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-kubernetes-3970e4?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+
+## 📈 GitHub Stats 
+
+[![Jeremy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeremydwayne&theme=catppuccin_latte&show_icons=true)](https://github.com/jeremydwayne)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jeremydwayne&theme=catppuccin-latte)](https://git.io/streak-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremydwayne&layout=compact&theme=catppuccin_latte)](https://github.com/jeremydwayne)
+
+  
 
 ## Connect With Me 📫 
 - Blog/Newsletter: [jeremywinterberg.com](https://www.jeremywinterberg.com/)
