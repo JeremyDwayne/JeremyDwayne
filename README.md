@@ -44,21 +44,20 @@ My name is **Jeremy Winterberg** and I've been building resilient software for o
 ## 🔩 ToolBox
 <h1 align = "center">
 
-![Ruby](https://img.shields.io/badge/-Ruby-820C02?style=for-the-badge&logo=ruby&logoColor=white)
-![Ruby on Rails](https://img.shields.io/badge/-Ruby%20On%20Rails-Cc0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Typescript](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-00d8ff?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+[![Ruby](https://img.shields.io/badge/-Ruby-820C02?style=for-the-badge&logo=ruby&logoColor=white)](https://github.com/JeremyDwayne?tab=repositories&q=&type=&language=ruby&sort=)
+[![Ruby on Rails](https://img.shields.io/badge/-Ruby%20On%20Rails-Cc0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)](https://github.com/JeremyDwayne?tab=repositories&q=&type=&language=ruby&sort=)
+[![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://github.com/JeremyDwayne?tab=repositories&q=&type=&language=go&sort=)
+[![Typescript](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/JeremyDwayne?tab=repositories&q=&type=&language=typescript&sort=)
+[![React](https://img.shields.io/badge/-React-00d8ff?style=for-the-badge&logo=react&logoColor=white)](https://github.com/JeremyDwayne?tab=repositories&q=&type=&language=typescript&sort=)
+[![Next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)](https://github.com/JeremyDwayne?tab=repositories&q=&type=&language=typescript&sort=)
 
 ![Postgres](https://img.shields.io/badge/-postgresql-0064a5?style=for-the-badge&logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/-aws-FF9900?style=for-the-badge&logo=amazon&logoColor=white)
+![Heroku](https://img.shields.io/badge/-heroku-C9c3e6?style=for-the-badge&logo=heroku&logoColor=6762a6)
 ![Ansible](https://img.shields.io/badge/-ansible-white?style=for-the-badge&logo=ansible&logoColor=black)
 ![Git](https://img.shields.io/badge/-git-F1502F?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-kubernetes-296de8?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/-terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 
 
 ## 📈 GitHub Stats 
