@@ -61,12 +61,10 @@ My name is **Jeremy Winterberg** and I've been building resilient software for o
 
 
 ## 📈 GitHub Stats 
-
 [![Jeremy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeremydwayne&theme=catppuccin_latte&show_icons=true)](https://github.com/jeremydwayne)
-[![GitHub Streak](https://streak-stats.demolab.com?user=jeremydwayne&theme=catppuccin-latte)](https://git.io/streak-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremydwayne&layout=compact&theme=catppuccin_latte)](https://github.com/jeremydwayne)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=jeremydwayne&theme=catppuccin-latte)](https://git.io/streak-stats)  -->
 
-  
 ## 📝 Recent Blog Posts
 - Blog: [jeremywinterberg.com](https://www.jeremywinterberg.com/)
 <!-- BLOG-POST-LIST:START -->
