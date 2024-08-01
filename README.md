@@ -62,6 +62,7 @@ My name is **Jeremy Winterberg** and I've been building resilient software for o
 
 ## 📈 GitHub Stats 
 [![Jeremy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeremydwayne&theme=catppuccin_latte&show_icons=true)](https://github.com/jeremydwayne)
+<a href="https://gitroll.io/profile/uOArmatVgU2OmIViv5ItgjWmDZlw1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uOArmatVgU2OmIViv5ItgjWmDZlw1" width="40%" alt="GitRoll Profile Badge"/></a>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremydwayne&layout=compact&theme=catppuccin_latte)](https://github.com/jeremydwayne)
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=jeremydwayne&theme=catppuccin-latte)](https://git.io/streak-stats)  -->
 
