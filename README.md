@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-My name is **Jeremy Winterberg** and I've been building resilient software for over 8 years. My expertise is in optimizing and scaling distributed systems, primarily with Ruby but I consider myself a polyglot. As a technical leader I am passionate about mentoring, establishing best practices within teams, and improving workflows. 
+My name is **Jeremy Winterberg** and I've been building resilient software for over 9 years. My expertise is in optimizing and scaling distributed systems, primarily with Ruby but I consider myself a polyglot. As a technical leader I am passionate about mentoring, establishing best practices within teams, and improving workflows. 
 
 **I am actively looking for my next role and would love to connect with you to discuss opportunities you're recruiting for.**
 
