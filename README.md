@@ -9,7 +9,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=C2AFF7FF&width=380&height=45&lines=Looking+For+Work%2C+Hire+Me!;Always+Learning+New+Things;Private+Pilot+%26+Coffee+Addict;Mentoring+Others;Nice+To+Meet+You!&center=true">
+    <img src="https://readme-typing-svg.herokuapp.com?color=C2AFF7FF&width=380&height=45&lines=Always+Learning+New+Things;Private+Pilot+%26+Coffee+Addict;Mentoring+Others;Nice+To+Meet+You!&center=true">
 </p>
 
 <!-- Badges template - https://github.com/badges/shields -->
