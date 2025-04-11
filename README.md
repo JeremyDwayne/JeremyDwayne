@@ -9,21 +9,18 @@
   [![Twitch](https://img.shields.io/badge/Twitch-6441a5?style=flat-square&logo=twitch&logoColor=white)](https://twitch.tv/jeremydwayne)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/jeremydwayne)
   [![Blog](https://img.shields.io/badge/Blog-12100E?style=flat-square&logo=medium&logoColor=white)](https://www.jeremywinterberg.com/)
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=C2AFF7&center=true&vCenter=true&width=435&lines=Software+Engineer;Private+Pilot;Coffee+Addict;Mentor" alt="Typing SVG" />
 </div>
 
 ## About Me 👨‍💻
 
-Building resilient software for over 10 years, specializing in distributed systems optimization and scaling. I'm passionate about mentoring, establishing best practices, and improving team workflows.
+🛠 Code-slinger. ✈️ Cockpit strategist. 📦 Submittal wrangler.  
+I build high-performance systems — for the cloud and the runway.
 
-**Currently open to new opportunities!**
+I’m a seasoned software engineer and project manager with a knack for turning complex problems into clean, scalable solutions. Whether I’m architecting a full-stack app, managing infrastructure upgrades, or designing flight training tools that actually make pilots safer, I’m all about precision, performance, and pushing things forward.
 
-When I'm not coding, you'll find me flying my 1963 Piper Cherokee 180 ✈️
+Currently building Safer Pilot, a platform that transforms pilot proficiency through smart repetition, instructor insights, and aviation-specific UX. I like my code clean, my interfaces intuitive, and my workflows airtight.
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMndrNW5hMnBkOXVxZ3l3b2ZyeDByZGdtOGo4czFwNG9waXQ3ZDRqcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Btn42lfKKrOzS/giphy.gif" alt="Flying GIF" width="400"/>
-</div>
+Always iterating. Never just shipping it and forgetting it.
 
 ## Tech Stack 🛠️
 
@@ -55,7 +52,3 @@ When I'm not coding, you'll find me flying my 1963 Piper Cherokee 180 ✈️
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more  blog posts...](https://www.jeremywinterberg.com/)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JeremyDwayne&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</div>
