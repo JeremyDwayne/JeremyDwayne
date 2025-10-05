@@ -13,33 +13,14 @@
 
 ## About Me 👨‍💻
 
-🛠 Code-slinger. ✈️ Cockpit strategist. 📦 Submittal wrangler.  
+🛠 Code-slinger. ✈️ Cockpit strategist.  
 I build high-performance systems — for the cloud and the runway.
 
-I’m a seasoned software engineer and project manager with a knack for turning complex problems into clean, scalable solutions. Whether I’m architecting a full-stack app, managing infrastructure upgrades, or designing flight training tools that actually make pilots safer, I’m all about precision, performance, and pushing things forward.
+I’m a seasoned software engineer with a knack for turning complex problems into clean, scalable solutions. Whether I’m architecting a full-stack app, managing infrastructure upgrades, or designing flight training tools that actually make pilots safer, I’m all about precision, performance, and pushing things forward.
 
-Currently building Safer Pilot, a platform that transforms pilot proficiency through smart repetition, instructor insights, and aviation-specific UX. I like my code clean, my interfaces intuitive, and my workflows airtight.
+Currently building Safer Pilot, a platform that helps aviation businesses transform pilot proficiency through smart repetition, instructor insights, and aviation-specific UX.
 
 Always iterating. Never just shipping it and forgetting it.
-
-## Tech Stack 🛠️
-
-<div align="center">
-
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-![Rails](https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
-
-</div>
 
 ## Latest Blog Posts 📝
 
