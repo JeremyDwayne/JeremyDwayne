@@ -21,15 +21,3 @@ I’m a seasoned software engineer with a knack for turning complex problems int
 Currently building Safer Pilot, a platform that helps aviation businesses transform pilot proficiency through smart repetition, instructor insights, and aviation-specific UX.
 
 Always iterating. Never just shipping it and forgetting it.
-
-## Latest Blog Posts 📝
-
-<!-- BLOG-POST-LIST:START -->
-- [Stop Following Tutorials](https://www.jeremywinterberg.com/p/stop-following-tutorials)
-- [Merge Two Sorted Arrays](https://www.jeremywinterberg.com/p/merge-two-sorted-arrays)
-- [DSA - Simple Search vs Binary Search](https://www.jeremywinterberg.com/p/dsa-simple-search-vs-binary-search)
-- [Consistency Is Difficult](https://www.jeremywinterberg.com/p/consistency-is-difficult)
-- [Advent of Code 2023 - Day 2 Cube Conundrum](https://www.jeremywinterberg.com/p/advent-of-code-2023-day-2)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more  blog posts...](https://www.jeremywinterberg.com/)
